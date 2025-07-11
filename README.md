@@ -2,12 +2,12 @@ The Speed Typing Game is a fun and interactive web-based application built using
 
 🔑 Key Features:-->
 
-Real-time typing speed tracking (WPM - Words Per Minute)
+* Real-time typing speed tracking (WPM - Words Per Minute)
 
-Accuracy percentage calculator
+* Accuracy percentage calculator
 
-Timer-based gameplay
+* Timer-based gameplay
 
-Random word/sentence generation
+* Random word/sentence generation
 
 Responsive and clean UI design
